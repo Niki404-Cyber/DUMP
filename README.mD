@@ -8,11 +8,11 @@
 
 <h2 align="center"> LOGIN WITH FACEBOOK TOKEN</h2>
 
-<p align="center"> NEW DUMP-ID TOOLS </p>
+<h3 align="center"> NEW DUMP-ID TOOLS <h3>
 
-<p align="center"> NEW OLD ALL ID DUMP TOOLS
+<h4 align="center"> NEW OLD ALL ID DUMP TOOLS <h4>
 
-# <b>installation</b>
+# <b>Installation</b>
 
 ```
 ✳️ pkg update
