@@ -26,7 +26,7 @@
 ✳️ cd DUMP-ID
 ✳️ python DUMP-ID
 
- Note: (This Tools Are Free, So You No Need Permission To Use NIKI DUMP-ID Tools Enjoy)</br>
+ Note: (This Tools Are Free, So You No Need Permission To Use NIKI DUMP-ID Tools Enjoy)
 
 💚Thank you For Using My Tools💚
 
