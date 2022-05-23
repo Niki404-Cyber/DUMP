@@ -24,7 +24,7 @@
 ✳️ pkg install git
 ✳️ git clone https://github.com/Niki404-Cyber/DUMP-ID
 ✳️ cd DUMP-ID
-✳️ python2 File-Make.py
+✳️ python DUMP-ID
 
  Note: (This Tools Are Free, So You No Need Permission To Use NIKI DUMP-ID Tools Enjoy)</br>
 
