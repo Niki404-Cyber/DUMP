@@ -30,9 +30,7 @@ $ git clone https://github.com/Niki404-Cyber/DUMP.git
 $ cd DUMP
 $ python Dump.py
 
- Note: (This Tools Are Free, So You No Need Permission To Use NIKI DUMP Tools Enjoy)
-
-💚Thank you For Using My Tools💚
+👉 Note: (This Tools Are Free, So You No Need Permission To Use NIKI DUMP Tools Enjoy)
 
 ```
 
@@ -43,4 +41,5 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip instal
 ```
 
  Note: (This Tools Are Free, So You No Need Permission To Use NIKI DUMP Tools Enjoy)</br>
-  [CODED BY Mr. NIKI]
+ 
+[CODED BY Mr. NIKI]
