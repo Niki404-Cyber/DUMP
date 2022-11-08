@@ -22,7 +22,10 @@ $ pkg install python
 $ pkg install python2
 $ pip install requests
 $ pip install mechanize
+$ pip install bs4
+$ pip install rich
 $ pkg install git
+$ rm -rf DUMP
 $ git clone https://github.com/Niki404-Cyber/DUMP.git
 $ cd DUMP
 $ python Dump.py
